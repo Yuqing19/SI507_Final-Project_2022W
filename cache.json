@@ -1,0 +1,1300 @@
+{
+  "cities": [
+    {
+      "children_count": 1,
+      "hash": "0c5c46cdbb39ecb993b390d6ac079dd0aa7f3684",
+      "images": [
+        {
+          "order": 1,
+          "type": "city",
+          "uuid": "0e032652-77cd-4776-ad39-f1f9cac74f2f"
+        }
+      ],
+      "language": "en",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "nl",
+        "zh"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "nl",
+        "country_uuid": "15845ecf-4274-4286-b086-e407ff8207de",
+        "latitude": 52.2621639,
+        "longitude": 4.7619222
+      },
+      "map": {
+        "bounds": "52.2505592169147,4.75092876992198,52.2711140201001,4.79235092250974"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Aalsmeer",
+      "type": "city",
+      "uuid": "dc996dbe-0ba1-4e71-9855-fc22db66da67",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "f33e41aec6d0b42c04cbe7e2865c1fb3ae2bc830",
+      "language": "en",
+      "languages": [
+        "de",
+        "en",
+        "fr",
+        "nl"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "be",
+        "country_uuid": "8665ab70-69ec-4fc7-92e9-7f26e3eb8d3d",
+        "latitude": 50.9301051747747,
+        "longitude": 4.03270387649536
+      },
+      "map": {
+        "bounds": "50.8881569564961,3.97640228271484,50.9616516791221,4.09356842041018"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Aalst",
+      "type": "city",
+      "uuid": "4db0f347-9af5-4c0e-a0d3-c82bcb6a81f6",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "58f919d522e997dc03274e66ad294f7ef1ebaf73",
+      "language": "en",
+      "languages": [
+        "de",
+        "en",
+        "nl"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "nl",
+        "country_uuid": "15845ecf-4274-4286-b086-e407ff8207de",
+        "latitude": 51.9266666,
+        "longitude": 6.5806785
+      },
+      "map": {
+        "bounds": "51.8729202,6.4721174,51.9743602,6.668761"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Aalten",
+      "type": "city",
+      "uuid": "c4c031f7-e60a-421a-9681-0c52aff272e6",
+      "visible": false
+    },
+    {
+      "children_count": 2,
+      "hash": "9577b25b5378ec914c055f7c7349fdcf487a4750",
+      "images": [
+        {
+          "order": 1,
+          "type": "city",
+          "uuid": "307d7d67-ab68-4ed6-b3be-dec150a59b72"
+        }
+      ],
+      "language": "en",
+      "languages": [
+        "da",
+        "en",
+        "fr"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "dk",
+        "country_uuid": "1887c4fa-10b3-4125-b316-5e1936a52ec4",
+        "latitude": 56.162939,
+        "longitude": 10.203921
+      },
+      "map": {
+        "bounds": "56.1185725,10.1483362394531,56.1853201002678,10.2550862000001"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Aarhus",
+      "type": "city",
+      "uuid": "40c55d40-9b29-4072-bcd3-46d9a2995c5d",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "67ec86e85863f8253849b32fcbc7faf56851c092",
+      "language": "en",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "au",
+        "country_uuid": "9850bb18-d3bf-4d32-88f5-a717c3d31cfa",
+        "latitude": -37.8023601,
+        "longitude": 144.9983623
+      },
+      "map": {
+        "bounds": "-37.8112675898397,144.992299837573,-37.7953036,145.0155638"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Abbotsford",
+      "type": "city",
+      "uuid": "2f8cfc87-9b78-4369-9c2c-814efb405249",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "028cd2833e6f65d0fe3a432e27e87a1429bf4887",
+      "language": "en",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "gb",
+        "country_uuid": "7caffa20-cf3e-4149-81db-bb0b0a0e435c",
+        "latitude": 52.1932328,
+        "longitude": -0.2030159
+      },
+      "map": {
+        "bounds": "52.1902019,-0.2118624,52.1966481,-0.1936469"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Abbotsley",
+      "type": "city",
+      "uuid": "a6fb5e71-320d-44c1-b557-3d7f4745337f",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "1337fce3ae4e1e992f91dac5c9ac8179ff8a1838",
+      "language": "en",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "gb",
+        "country_uuid": "7caffa20-cf3e-4149-81db-bb0b0a0e435c",
+        "latitude": 57.6675489,
+        "longitude": -2.5036449
+      },
+      "map": {
+        "bounds": "57.6644013,-2.5099764,57.6680917,-2.5020199"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Aberdeenshire",
+      "type": "city",
+      "uuid": "3fe048cc-8706-42e4-9a58-27dfc716d111",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "a1369709403696ce420235523a574dd43c5a852e",
+      "language": "en",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "us",
+        "country_uuid": "cbdbad93-08d3-4ce9-bcbd-8d9cee7ca35c",
+        "latitude": 36.2068200511896,
+        "longitude": -106.315577230273
+      },
+      "map": {
+        "bounds": "36.191903299019,-106.336996071289,36.2196683234023,-106.289320730469"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Abiquiu, NM",
+      "type": "city",
+      "uuid": "02c83a8f-8595-4c94-923e-fa25ced59849",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "11a9223e2d7fdd9087a0d4902558ff4032d18a14",
+      "language": "en",
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "ng",
+        "country_uuid": "61f69afd-c13e-4985-95d9-857fd5a19513",
+        "latitude": 9.0764785,
+        "longitude": 7.398574
+      },
+      "map": {
+        "bounds": "8.9220428,7.2331237999999995,9.1866247,7.5555897"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Abuja",
+      "type": "city",
+      "uuid": "29f2e036-b54b-41d5-9dbc-c7e7e5de3fb3",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "1c1609f59fc2c0cd1dbe9bf93f4ae1727055236e",
+      "language": "en",
+      "languages": [
+        "en",
+        "hu"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "hu",
+        "country_uuid": "479b2407-d9eb-4191-a74e-f37857c7b54b",
+        "latitude": 47.7946936,
+        "longitude": 19.3864356
+      },
+      "map": {
+        "bounds": "47.767448,19.335779,47.82202,19.446191"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Acsa",
+      "type": "city",
+      "uuid": "0351c9e6-2cab-4164-8702-08eec439441d",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "30cc495f5b98d8916053636cade81794c345f624",
+      "language": "en",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "us",
+        "country_uuid": "cbdbad93-08d3-4ce9-bcbd-8d9cee7ca35c",
+        "latitude": 34.8101393,
+        "longitude": -96.7065914
+      },
+      "map": {
+        "bounds": "34.663164,-96.916373,34.9505361,-96.4764699"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Ada",
+      "type": "city",
+      "uuid": "4ecb010b-737b-4055-ab6d-552e12f9d4e3",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "4692afe36898e11ed8d3129345815402c6f960ff",
+      "language": "en",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "us",
+        "country_uuid": "cbdbad93-08d3-4ce9-bcbd-8d9cee7ca35c",
+        "latitude": 42.625879,
+        "longitude": -73.111356
+      },
+      "map": {
+        "bounds": "42.5829838,-73.2005839,42.6598161,-73.0632809"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Adams",
+      "type": "city",
+      "uuid": "d9990efc-db1d-47fd-a289-412e5cb0ef90",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "acd0d57452c690bee72f0f5bb5fc4334fb86d57c",
+      "language": "en",
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "et",
+        "country_uuid": "e012d3a4-966f-4564-a92b-cd1c5c462b3e",
+        "latitude": 8.9806034,
+        "longitude": 38.7577605
+      },
+      "map": {
+        "bounds": "8.8406988,38.6560823,9.0856549,38.9002073"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Addis Ababa",
+      "type": "city",
+      "uuid": "4320fa43-eddf-4b15-ba87-c586a49e5893",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "54dc8a46c04686432eaf4f7331d4f025087c99ec",
+      "language": "en",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "us",
+        "country_uuid": "cbdbad93-08d3-4ce9-bcbd-8d9cee7ca35c",
+        "latitude": 41.9320859,
+        "longitude": -88.0020589
+      },
+      "map": {
+        "bounds": "41.9043748,-88.064392,41.9586029,-87.9599679"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Addison",
+      "type": "city",
+      "uuid": "959c9bb8-3bcc-4d9d-b936-4c4408b4672d",
+      "visible": false
+    },
+    {
+      "children_count": 7,
+      "hash": "1c88eb67e4ca7519717759f424b92834b2d1b9a8",
+      "language": "en",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "au",
+        "country_uuid": "9850bb18-d3bf-4d32-88f5-a717c3d31cfa",
+        "latitude": -34.9544679,
+        "longitude": 138.6063175
+      },
+      "map": {
+        "bounds": "-34.9586927652881,138.573105471289,-34.8893989609957,138.633780869434"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Adelaide",
+      "type": "city",
+      "uuid": "45e8962f-73ba-47bd-82d5-e38f058460c1",
+      "visible": false
+    },
+    {
+      "children_count": 5,
+      "hash": "7756bedaa54c21f1c7f9e8457b6d90ad73d0cb0b",
+      "language": "en",
+      "languages": [
+        "en",
+        "hi"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "in",
+        "country_uuid": "c6a1764d-50ea-411f-92f3-1b24409a76f5",
+        "latitude": 27.2035455,
+        "longitude": 78.0880129
+      },
+      "map": {
+        "bounds": "27.1302986,78.0278962,27.2687068,78.1303494"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Agra",
+      "type": "city",
+      "uuid": "eb4c6b02-6d54-4bc9-b188-380a2be5c87a",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "10d43d08b82ec2b7c0589468cf47462d8ba0e332",
+      "language": "en",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "ru",
+        "country_uuid": "fa67b72f-615a-42d9-bed4-f6899e2679bc",
+        "latitude": 65.9348148,
+        "longitude": 111.5036264
+      },
+      "map": {
+        "bounds": "65.927613,111.476982,65.9553899,111.5685249"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Aikhal",
+      "type": "city",
+      "uuid": "1fac728f-02f8-431f-b837-214006b13e56",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "5bc0ea3e237bb1393db087ac41f77b16e8b81659",
+      "language": "en",
+      "languages": [
+        "en",
+        "et"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "lv",
+        "country_uuid": "2ddbb849-6205-4efc-88eb-9106041cce80",
+        "latitude": 57.8552975,
+        "longitude": 24.3530817
+      },
+      "map": {
+        "bounds": "57.8277971,24.3371101,57.876985,24.3819591"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Aina\u017ei",
+      "type": "city",
+      "uuid": "437ae3e1-56c3-4899-92dc-27d8ea1f2eff",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "97e6efe1570b8ba1857c8279f887c23ca4370c25",
+      "language": "en",
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "fr",
+        "country_uuid": "1204cada-f918-49cd-8483-81795d69e2bd",
+        "latitude": 43.5249226972267,
+        "longitude": 5.44238710403442
+      },
+      "map": {
+        "bounds": "43.5079524290056,5.4133010864258,43.5493702153054,5.48633575439453"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Aix-en-Provence",
+      "type": "city",
+      "uuid": "7a4740b8-d82e-42fd-885b-3fa013f7a934",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "516212bdf3c884a45f1375dc2dd50ff1e43db342",
+      "language": "en",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "kz",
+        "country_uuid": "2b6de2d2-71c5-4d64-b8a6-cd8c79d92805",
+        "latitude": 49.8914151,
+        "longitude": 72.411841
+      },
+      "map": {
+        "bounds": "49.8797106,72.39063,49.9026539,72.4374827"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Aktobe",
+      "type": "city",
+      "uuid": "9f77fb6c-aa63-4095-928b-6bc54004a640",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "b1ce08ffacc08c968661d598dfceaae5efb546ee",
+      "language": "en",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "ru",
+        "country_uuid": "fa67b72f-615a-42d9-bed4-f6899e2679bc",
+        "latitude": 57.8483493,
+        "longitude": 61.6880301
+      },
+      "map": {
+        "bounds": "57.812613999999996,61.6311758,57.8820699,61.7336202"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Alapayevsk",
+      "type": "city",
+      "uuid": "9d233f9e-6d50-4516-8766-5b452e81be58",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "c04f285f9985166376aaa8e4e54cbff07e4bb28d",
+      "language": "en",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "in",
+        "country_uuid": "c6a1764d-50ea-411f-92f3-1b24409a76f5",
+        "latitude": 9.49412677062145,
+        "longitude": 76.3254895210266
+      },
+      "map": {
+        "bounds": "9.46325610358526,76.3056732177735,9.52671011153028,76.3570785522461"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Alappuzha",
+      "type": "city",
+      "uuid": "24d9456f-bf08-4a75-a3a4-0e5e2af622f0",
+      "visible": false
+    },
+    {
+      "children_count": 2,
+      "hash": "23fcc7a045fa906a348dd3c632a458c406887dc9",
+      "language": "en",
+      "languages": [
+        "en",
+        "nl"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "us",
+        "country_uuid": "cbdbad93-08d3-4ce9-bcbd-8d9cee7ca35c",
+        "latitude": 42.6568958,
+        "longitude": -73.7463147
+      },
+      "map": {
+        "bounds": "42.6436859,-73.7581249,42.6701979,-73.7291669"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Albany",
+      "type": "city",
+      "uuid": "9cbec823-b315-4479-9e49-944e7ea104d5",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "1b95d22141d4b33abd322cd506b15b5eb3b0daa2",
+      "language": "en",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "us",
+        "country_uuid": "cbdbad93-08d3-4ce9-bcbd-8d9cee7ca35c",
+        "latitude": 35.1029697,
+        "longitude": -106.6703963
+      },
+      "map": {
+        "bounds": "34.9606029485686,-106.871856832031,35.2285977499471,-106.461932448828"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Albuquerque, NM",
+      "type": "city",
+      "uuid": "583223bc-052b-4620-a76b-54e84e41c268",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "732263ae19fcb0868f0a3a97401da3fe3cb4bd59",
+      "language": "en",
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "fr",
+        "country_uuid": "1204cada-f918-49cd-8483-81795d69e2bd",
+        "latitude": 45.8187687584569,
+        "longitude": 6.02191591262817
+      },
+      "map": {
+        "bounds": "45.812388928061,6.01041793823242,45.823010522334,6.03248367309573"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Alby-sur-Cheran",
+      "type": "city",
+      "uuid": "eadbe3f5-8ad2-4bb8-b87c-5bb8eae73fa0",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "1a02555235a9877a6003c959f4e4f2d0c7711012",
+      "language": "en",
+      "languages": [
+        "en",
+        "pt"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "pt",
+        "country_uuid": "d88220b0-79bf-4b1a-9ba3-9d84c7c6d28e",
+        "latitude": 39.548667,
+        "longitude": -8.9796492
+      },
+      "map": {
+        "bounds": "39.5074697,-8.9942213,39.5600108,-8.9514759"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Alcoba\u00e7a",
+      "type": "city",
+      "uuid": "36a9e1c2-637f-4a75-946d-dccb8be2cb70",
+      "visible": false
+    },
+    {
+      "children_count": 2,
+      "hash": "40db126a8a8a1ea4cae13f5d48a5f0a7be1e2c56",
+      "language": "en",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "gb",
+        "country_uuid": "7caffa20-cf3e-4149-81db-bb0b0a0e435c",
+        "latitude": 51.248366,
+        "longitude": -0.7557509
+      },
+      "map": {
+        "bounds": "51.2304577,-0.7868499,51.2754071,-0.7304843"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Aldershot",
+      "type": "city",
+      "uuid": "0f8e22db-9618-48dc-bad3-eab33e5e3bc6",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "23c1e6b0c35f86c1de417e96cffca8f679f2369c",
+      "language": "en",
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "us",
+        "country_uuid": "cbdbad93-08d3-4ce9-bcbd-8d9cee7ca35c",
+        "latitude": 40.594532,
+        "longitude": -75.026566
+      },
+      "map": {
+        "bounds": "40.536544,-75.1007779,40.646988,-74.957757"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Alexandria, VA",
+      "type": "city",
+      "uuid": "6b0f9d33-dd6e-4db9-ae5e-daecf7e1d3a4",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "b987000ec8364ba999f82ea837a72a000919bf1e",
+      "images": [
+        {
+          "order": 1,
+          "type": "city",
+          "uuid": "cd48c541-3447-413f-8cd6-c3370f3928df"
+        }
+      ],
+      "language": "en",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "ru",
+        "country_uuid": "fa67b72f-615a-42d9-bed4-f6899e2679bc",
+        "latitude": 56.3954049545852,
+        "longitude": 38.7147127222902
+      },
+      "map": {
+        "bounds": "56.3744657960141,38.6782463709472,56.4112751167667,38.7521518931153"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Alexandrov",
+      "type": "city",
+      "uuid": "2db56280-4ad0-4f15-b993-776edc9e16f5",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "85fd6750fc29ac599ce19cb08cd041cb04a9f423",
+      "language": "en",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "au",
+        "country_uuid": "9850bb18-d3bf-4d32-88f5-a717c3d31cfa",
+        "latitude": -33.8840393,
+        "longitude": 147.3722545
+      },
+      "map": {
+        "bounds": "-34.174302,146.7299681,-33.3851963,147.6372919"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Alleena",
+      "type": "city",
+      "uuid": "fe08ad00-97df-401e-8f43-af065b8f42ce",
+      "visible": false
+    },
+    {
+      "children_count": 2,
+      "hash": "976ff695487c48f98eba4bf3762568d2327e96a0",
+      "language": "en",
+      "languages": [
+        "en",
+        "it"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "it",
+        "country_uuid": "a86219ac-eb5e-47c7-8a34-94183eab6a08",
+        "latitude": 46.3926666,
+        "longitude": 12.0435113
+      },
+      "map": {
+        "bounds": "46.366388,11.987065,46.4452099,12.098331"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Alleghe",
+      "type": "city",
+      "uuid": "cc58872e-774b-41b5-9a44-c498860d39d8",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "b27bed7a38b7e935621f612545a60939e9e22b17",
+      "language": "en",
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "fr",
+        "country_uuid": "1204cada-f918-49cd-8483-81795d69e2bd",
+        "latitude": 50.537157,
+        "longitude": 2.952225
+      },
+      "map": {
+        "bounds": "50.5227098,2.9255161,50.558419,2.964935"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Allennes-les-Marais",
+      "type": "city",
+      "uuid": "ac3dfbfa-9eb7-4bf4-90d8-c9fdf437935b",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "1f7194a28eb985954dd6cd34c9d5d7e4f7000fcf",
+      "language": "en",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "us",
+        "country_uuid": "cbdbad93-08d3-4ce9-bcbd-8d9cee7ca35c",
+        "latitude": 40.2285281,
+        "longitude": -105.6647142
+      },
+      "map": {
+        "bounds": "40.1544928,-105.8365949,40.309373,-105.40633"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Allenspark",
+      "type": "city",
+      "uuid": "1bcb6920-7766-4584-94f9-5f1c13df09e1",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "6614b2d2f9e2d93bf43fe6b716d00efe85bb894b",
+      "language": "en",
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "fr",
+        "country_uuid": "1204cada-f918-49cd-8483-81795d69e2bd",
+        "latitude": 44.7030936,
+        "longitude": 5.018246
+      },
+      "map": {
+        "bounds": "44.5977921,4.8483307,44.9043196,5.29254"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Allex",
+      "type": "city",
+      "uuid": "4a458635-56d6-4785-81dd-719c64b09854",
+      "visible": false
+    },
+    {
+      "children_count": 36,
+      "hash": "1a1e055f279827a614567077f4dcb90b8d3fdb3c",
+      "images": [
+        {
+          "order": 1,
+          "type": "city",
+          "uuid": "bb962742-7e97-48f9-b25e-84768d8a0fba"
+        }
+      ],
+      "language": "en",
+      "languages": [
+        "en",
+        "kk",
+        "ru",
+        "zh"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "kz",
+        "country_uuid": "2b6de2d2-71c5-4d64-b8a6-cd8c79d92805",
+        "latitude": 43.2775,
+        "longitude": 76.895833
+      },
+      "map": {
+        "bounds": "43.1781428268973,76.7856790000001,43.3675591226153,77.0252323451172"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Almaty",
+      "type": "city",
+      "uuid": "4b7be3a1-68e6-4659-8ea8-692f10b404cb",
+      "visible": false
+    },
+    {
+      "children_count": 3,
+      "hash": "6f4ae3743b44d40dbda6b3c21fce843bd6758205",
+      "images": [
+        {
+          "order": 1,
+          "type": "city",
+          "uuid": "6be701a4-7cd8-4c1a-be6f-74412ed476bc"
+        }
+      ],
+      "language": "en",
+      "languages": [
+        "de",
+        "en",
+        "nl"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "nl",
+        "country_uuid": "15845ecf-4274-4286-b086-e407ff8207de",
+        "latitude": 52.3507849,
+        "longitude": 5.2647016
+      },
+      "map": {
+        "bounds": "52.3295735038427,5.12546707304682,52.4354404,5.37907970000003"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Almere",
+      "type": "city",
+      "uuid": "004c62bb-d45c-4fb9-b34f-6ea65f89cc95",
+      "visible": false
+    },
+    {
+      "children_count": 5,
+      "hash": "1c3ecd0a7a7fb82b0cc35c7fb12c83e55bb35be7",
+      "language": "en",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "us",
+        "country_uuid": "cbdbad93-08d3-4ce9-bcbd-8d9cee7ca35c",
+        "latitude": 45.0765963,
+        "longitude": -83.490932
+      },
+      "map": {
+        "bounds": "44.9027229,-83.661032,45.2627119,-83.188481"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Alpena",
+      "type": "city",
+      "uuid": "709c6f63-05ff-44ec-aad6-37417ecf7cbf",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "bca00217873601374e98aeb14184d2514d97804e",
+      "language": "en",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "us",
+        "country_uuid": "cbdbad93-08d3-4ce9-bcbd-8d9cee7ca35c",
+        "latitude": 34.0722853542269,
+        "longitude": -84.2951957730469
+      },
+      "map": {
+        "bounds": "34.0541201169266,-84.3227337090822,34.0928788968279,-84.2573924125001"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Alpharetta, GA",
+      "type": "city",
+      "uuid": "5044109c-fb85-4d67-a2cf-1bcb3b06c43e",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "860710cf12ee870714d18075baca51a6bb9787a4",
+      "language": "en",
+      "languages": [
+        "en",
+        "nl"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "nl",
+        "country_uuid": "15845ecf-4274-4286-b086-e407ff8207de",
+        "latitude": 52.1276577,
+        "longitude": 4.6688508
+      },
+      "map": {
+        "bounds": "52.0860961215216,4.6109721449219,52.1675848,4.75267947900397"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Alphen aan den Rijn",
+      "type": "city",
+      "uuid": "30fd1264-0e5e-4b91-a533-68dee2d2c2f6",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "a8bfdc491a9a001d5025adf961eb9a3b1edbab9e",
+      "language": "en",
+      "languages": [
+        "ar",
+        "en",
+        "ku"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "iq",
+        "country_uuid": "7455c761-8f6d-45fc-9e88-8edfab683c82",
+        "latitude": 36.7321226,
+        "longitude": 43.0950617
+      },
+      "map": {
+        "bounds": "36.7252985,43.0865336,36.7395376,43.1071758"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Alqosh",
+      "type": "city",
+      "uuid": "464badd9-d9c8-414f-a082-a9c83e0aa208",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "00d38e3e444a6a2cc4fdc800f3b23430e5c5c4d5",
+      "language": "en",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "no"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "no",
+        "country_uuid": "78d1711b-7c4f-4269-903b-b3debfea4828",
+        "latitude": 69.8419413,
+        "longitude": 23.0451259
+      },
+      "map": {
+        "bounds": "69.6454564,22.4485773,70.0229512,23.8735529"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Alta",
+      "type": "city",
+      "uuid": "2cdf6072-b778-4c89-a0b8-53b4f2c96523",
+      "visible": false
+    },
+    {
+      "children_count": 2,
+      "hash": "32ff42d0e2ecd1fe97a6fe874dbbb2b47a755142",
+      "language": "en",
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "ch",
+        "country_uuid": "7b044dfa-9b54-4e8e-9f1e-0cdf78a0409a",
+        "latitude": 46.9022037,
+        "longitude": 8.6475262
+      },
+      "map": {
+        "bounds": "46.8634758,8.6152813,46.9320925,8.6834509"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Altdorf",
+      "type": "city",
+      "uuid": "6c7e3f9e-020c-4bfe-8064-c75855f3d86d",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "8b746f5a24f4e8a1aac4cb1537e6b5d1dd508738",
+      "language": "en",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "us",
+        "country_uuid": "cbdbad93-08d3-4ce9-bcbd-8d9cee7ca35c",
+        "latitude": 34.637765,
+        "longitude": -99.3340442
+      },
+      "map": {
+        "bounds": "34.6194769,-99.3514489,34.710537,-99.253062"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Altus",
+      "type": "city",
+      "uuid": "85c02d63-5eec-475c-b5c4-af84f36ca06f",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "f2620abc764b23d9d4068d7bb10f837a73400615",
+      "language": "en",
+      "languages": [
+        "de",
+        "en",
+        "fr",
+        "ru",
+        "uk",
+        "zh"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "ru",
+        "country_uuid": "fa67b72f-615a-42d9-bed4-f6899e2679bc",
+        "latitude": 44.4209688,
+        "longitude": 34.0472685
+      },
+      "map": {
+        "bounds": "44.4033775980387,34.0167820158691,44.4306975026118,34.0706056137695"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Alupka",
+      "type": "city",
+      "uuid": "d0f33526-a405-4d35-896c-216c25312dc9",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "1bd5ceec9724caa48a39429d725a1af207ffe6a3",
+      "language": "en",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "lt",
+        "country_uuid": "d3da027d-46a0-41d9-8947-5fb728a5baa6",
+        "latitude": 54.3962938,
+        "longitude": 24.0458761
+      },
+      "map": {
+        "bounds": "54.3641319,23.957341,54.4427299,24.1024839"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Alytus",
+      "type": "city",
+      "uuid": "b0d0f055-9311-4384-81cc-23c2941c601a",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "195043da23c5729ca46b1d49c1607db5482ab005",
+      "language": "en",
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "fr",
+        "country_uuid": "1204cada-f918-49cd-8483-81795d69e2bd",
+        "latitude": 47.4108327092048,
+        "longitude": 0.9801575988281
+      },
+      "map": {
+        "bounds": "47.4017711587169,0.953207704687429,47.4209617640027,1.01888504199223"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Amboise",
+      "type": "city",
+      "uuid": "5b01c8d1-5aac-4422-b0dd-539a7fce2f06",
+      "visible": false
+    },
+    {
+      "children_count": 7,
+      "hash": "f8be5691e0e325264143de0fc98ee3d91964b31b",
+      "images": [
+        {
+          "order": 1,
+          "type": "city",
+          "uuid": "edf2271e-93e2-457f-a5f2-88974737ddca"
+        }
+      ],
+      "language": "en",
+      "languages": [
+        "en",
+        "nl",
+        "pt"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "nl",
+        "country_uuid": "15845ecf-4274-4286-b086-e407ff8207de",
+        "latitude": 52.1561113,
+        "longitude": 5.3878266
+      },
+      "map": {
+        "bounds": "52.1295498612419,5.33269250654303,52.2092219,5.44870279999998"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Amersfoort",
+      "type": "city",
+      "uuid": "ea70146f-c284-49b4-9f4b-14b1b7aa6b9f",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "77bdf7227b3f007829bd0c9d6a8f06ae123b0518",
+      "language": "en",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "us",
+        "country_uuid": "cbdbad93-08d3-4ce9-bcbd-8d9cee7ca35c",
+        "latitude": 42.3403799,
+        "longitude": -72.4968189
+      },
+      "map": {
+        "bounds": "42.2951409,-72.6024449,42.438158,-72.3613449"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Amherst",
+      "type": "city",
+      "uuid": "b218d921-3e16-494c-98c5-383fc17c0c95",
+      "visible": false
+    },
+    {
+      "children_count": 4,
+      "hash": "b90977cc7bbd3d04eced8ccf0c9e934ec14a39a1",
+      "language": "en",
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "fr",
+        "country_uuid": "1204cada-f918-49cd-8483-81795d69e2bd",
+        "latitude": 49.894067,
+        "longitude": 2.295753
+      },
+      "map": {
+        "bounds": "49.8490497081096,2.22352799999999,49.9405668034771,2.37733259335937"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Amiens",
+      "type": "city",
+      "uuid": "7868a257-aa27-4236-b4f6-4dfcb755c6b8",
+      "visible": false
+    },
+    {
+      "children_count": 1,
+      "hash": "dc07b4f8b7cbcf27b42b5d461fb3bad0b18bc97f",
+      "language": "en",
+      "languages": [
+        "ar",
+        "en"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "country_code": "jo",
+        "country_uuid": "7e916790-4b7b-455c-bcfd-c19c26e89ae3",
+        "latitude": 31.9453666,
+        "longitude": 35.9283716
+      },
+      "map": {
+        "bounds": "31.7815766481543,35.778606453125,32.0443884885363,36.10566881875"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Amman",
+      "type": "city",
+      "uuid": "e0db121b-90b1-49b0-bdc0-ef95408af6f0",
+      "visible": false
+    }
+  ]
+}

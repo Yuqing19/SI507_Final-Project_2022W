@@ -1,0 +1,2917 @@
+{
+  "countries": [
+    {
+      "children_count": 7,
+      "country_code": "al",
+      "hash": "a36f015590e21980b536f96491e3922df435c3f4",
+      "language": "en",
+      "languages": [
+        "bs",
+        "en",
+        "it",
+        "ru",
+        "sq"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 41.153332,
+        "longitude": 20.168331
+      },
+      "map": {
+        "bounds": "39.6447296,19.2639041,42.661082,21.0572394"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Albania",
+      "type": "country",
+      "uuid": "e8e56380-d805-493e-9e1a-f07bd46942da"
+    },
+    {
+      "children_count": 24,
+      "country_code": "ad",
+      "hash": "3770c5ca5bb51cfb8b62156fd0c812adcddfab86",
+      "language": "en",
+      "languages": [
+        "en",
+        "es",
+        "fr"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 42.506285,
+        "longitude": 1.521801
+      },
+      "map": {
+        "bounds": "42.4287488,1.4087052,42.655791,1.786639"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Andorra",
+      "type": "country",
+      "uuid": "cad24f80-2f30-48b7-9548-cfbddfbb4404"
+    },
+    {
+      "children_count": 7,
+      "country_code": "ar",
+      "hash": "5af97edeb62755663fe59ad6915d27889eac5ea8",
+      "language": "en",
+      "languages": [
+        "en",
+        "es",
+        "fr"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": -38.416097,
+        "longitude": -63.616672
+      },
+      "map": {
+        "bounds": "-55.0577146,-73.56036019999999,-21.7808136,-53.637481"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Argentina",
+      "type": "country",
+      "uuid": "6d4e7752-3c61-4cd8-afc2-9da76c60a2f6"
+    },
+    {
+      "children_count": 20,
+      "country_code": "am",
+      "hash": "20a2fa9cacf54ce1811c9a20e66676cfbcae9b0d",
+      "language": "en",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fa",
+        "fr",
+        "hy",
+        "it",
+        "ru",
+        "zh"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 40.069099,
+        "longitude": 45.038189
+      },
+      "map": {
+        "bounds": "38.840244,43.447212,41.300993,46.634222"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Armenia",
+      "type": "country",
+      "uuid": "c5a0e491-a17b-4a02-8735-fc6b8ce90f54"
+    },
+    {
+      "children_count": 1,
+      "country_code": "aw",
+      "hash": "d54807bcf14600b37f73a50bf7c2ab743cb884fa",
+      "language": "en",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 12.52111,
+        "longitude": -69.968338
+      },
+      "map": {
+        "bounds": "12.4117656,-70.0640124,12.6233784,-69.86587999999999"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Aruba",
+      "type": "country",
+      "uuid": "28e815c0-e97f-4ef7-b8a6-898578778ee2"
+    },
+    {
+      "children_count": 300,
+      "country_code": "au",
+      "hash": "f4ce19ef069ac855e9ba01fb0aac76344c9755ce",
+      "language": "en",
+      "languages": [
+        "cs",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "ja",
+        "pt",
+        "ru",
+        "zh"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": -25.274398,
+        "longitude": 133.775136
+      },
+      "map": {
+        "bounds": "-44.8425928082842,112.92145440000002,-9.2198215,154.55337986250004"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Australia",
+      "type": "country",
+      "uuid": "9850bb18-d3bf-4d32-88f5-a717c3d31cfa"
+    },
+    {
+      "children_count": 28,
+      "country_code": "at",
+      "hash": "6c7c18e552a48acedbb6b2976d73455c0b164cdd",
+      "language": "en",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ru",
+        "zh"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 47.516231,
+        "longitude": 14.550072
+      },
+      "map": {
+        "bounds": "46.37233579999999,9.530783399999999,49.0206081,17.1606861"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Austria",
+      "type": "country",
+      "uuid": "03477bcf-ce04-496e-ad3b-03cc2c6ff73f"
+    },
+    {
+      "children_count": 5,
+      "country_code": "az",
+      "hash": "963e6cf73ae9a9752849fdb961d9fa96ce041b89",
+      "language": "en",
+      "languages": [
+        "az",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ru",
+        "sv"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 40.143105,
+        "longitude": 47.576927
+      },
+      "map": {
+        "bounds": "38.39199000000001,44.764683,41.9123402,50.46786609999999"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Azerbaijan",
+      "type": "country",
+      "uuid": "ca435942-46c4-4d35-a72b-7937f8f06c1e"
+    },
+    {
+      "children_count": 1,
+      "country_code": "bh",
+      "hash": "4453ec736a081a525c2c682940268c4245099a09",
+      "language": "en",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 26.0667,
+        "longitude": 50.5577
+      },
+      "map": {
+        "bounds": "25.5564577,50.37815089999999,26.3303935,50.82484609999999"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Bahrain",
+      "type": "country",
+      "uuid": "21c97164-61bc-4775-b518-b647561d316b"
+    },
+    {
+      "children_count": 36,
+      "country_code": "by",
+      "hash": "74ec7db8f988670a309e8073f665e43a35c9e34d",
+      "language": "en",
+      "languages": [
+        "be",
+        "de",
+        "en",
+        "es",
+        "et",
+        "fr",
+        "it",
+        "pl",
+        "ru",
+        "uk",
+        "zh"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 53.709807,
+        "longitude": 27.953389
+      },
+      "map": {
+        "bounds": "51.26201100000001,23.1783377,56.1718719,32.7768201"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Belarus",
+      "type": "country",
+      "uuid": "394cc2ef-7236-464f-8625-d14c4751210a"
+    },
+    {
+      "children_count": 66,
+      "country_code": "be",
+      "hash": "7bc1834d4fbdf2ce504b5338a3a3eacd17e73ea2",
+      "language": "en",
+      "languages": [
+        "da",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "nl",
+        "pt",
+        "ro",
+        "ru",
+        "wa",
+        "zh"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 50.503887,
+        "longitude": 4.469936
+      },
+      "map": {
+        "bounds": "49.497013,2.5447949,51.5051449,6.408124099999999"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Belgium",
+      "type": "country",
+      "uuid": "8665ab70-69ec-4fc7-92e9-7f26e3eb8d3d"
+    },
+    {
+      "children_count": 3,
+      "country_code": "ba",
+      "hash": "b4c8ec3a1c4c3d1fd2555232be44aff66ee3d234",
+      "language": "en",
+      "languages": [
+        "bs",
+        "en",
+        "nl"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 43.915886,
+        "longitude": 17.679076
+      },
+      "map": {
+        "bounds": "42.5564516,15.7223665,45.2766262,19.621935"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Bosnia and Herzegovina",
+      "type": "country",
+      "uuid": "a1a80001-9938-4864-8c18-3c02b7f330ac"
+    },
+    {
+      "children_count": 10,
+      "country_code": "br",
+      "hash": "0232f9ed975ebd866de8b88b23078bae8e1caea3",
+      "language": "en",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ja",
+        "nl",
+        "pt",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": -14.235004,
+        "longitude": -51.92528
+      },
+      "map": {
+        "bounds": "-33.7517484,-73.982817,5.271602,-29.3450235"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Brazil",
+      "type": "country",
+      "uuid": "9c68f0b7-9c7d-4cdb-8ce2-690adbeefb6f"
+    },
+    {
+      "children_count": 4,
+      "country_code": "bn",
+      "hash": "1054515a405b61a64a0af80ec4ec38c50bc14d3d",
+      "language": "en",
+      "languages": [
+        "en",
+        "ja",
+        "ko",
+        "ms",
+        "zh"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 4.535277,
+        "longitude": 114.727669
+      },
+      "map": {
+        "bounds": "4.002508,114.0760632,5.082646,115.3635623"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Brunei",
+      "type": "country",
+      "uuid": "be4f04f7-034c-42b1-b638-b8cf9d149a59"
+    },
+    {
+      "children_count": 9,
+      "country_code": "bg",
+      "hash": "6ba449c879bf2a1e702d6ab7957eb0b60fd05a48",
+      "language": "en",
+      "languages": [
+        "bg",
+        "de",
+        "en",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 42.733883,
+        "longitude": 25.48583
+      },
+      "map": {
+        "bounds": "41.2354469,22.3573446,44.2152333,28.6092632"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Bulgaria",
+      "type": "country",
+      "uuid": "5431a8eb-ee77-4701-af8c-a410d65dd347"
+    },
+    {
+      "children_count": 1,
+      "country_code": "kh",
+      "hash": "1f3e4791ccffbe3d471b714f1d8168b4bc57d164",
+      "language": "en",
+      "languages": [
+        "en",
+        "es"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 12.7907664972997,
+        "longitude": 103.95824815625
+      },
+      "map": {
+        "bounds": "10.337718220629624,102.71806348437497,14.243385095501871,106.00171043749992"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Cambodia",
+      "type": "country",
+      "uuid": "cceec776-c863-4662-887f-271f8cf41053"
+    },
+    {
+      "children_count": 51,
+      "country_code": "ca",
+      "hash": "5890c9a35f9bd5c85cc6613384ac6067fc5695f7",
+      "language": "en",
+      "languages": [
+        "cs",
+        "en",
+        "es",
+        "fr"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 56.130366,
+        "longitude": -106.346771
+      },
+      "map": {
+        "bounds": "41.6765559,-141.00187,83.115061,-52.6194086"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Canada",
+      "type": "country",
+      "uuid": "a32b1539-339c-43a2-82c1-61b8449ecdb8"
+    },
+    {
+      "children_count": 1,
+      "country_code": "cf",
+      "hash": "d13be3bae79edb9c031524e7afd0bac9ef084f90",
+      "language": "en",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 6.611111,
+        "longitude": 20.939444
+      },
+      "map": {
+        "bounds": "2.2208576,14.4150981,11.017957,27.4583052"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Central African Republic",
+      "type": "country",
+      "uuid": "efbaaf6d-cfe5-45a0-b363-72f801962e8f"
+    },
+    {
+      "children_count": 12,
+      "country_code": "cl",
+      "hash": "f5ddfcb1bc113e6e3550eafbdc6b338bd3c18851",
+      "language": "en",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "pt"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": -35.675147,
+        "longitude": -71.542969
+      },
+      "map": {
+        "bounds": "-55.584388283380854,-84.58183372500002,-17.4983292,-66.4182017"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Chile",
+      "type": "country",
+      "uuid": "bb05579e-f416-49bd-a20b-6892f80385ae"
+    },
+    {
+      "children_count": 6,
+      "country_code": "cn",
+      "hash": "9009b7b73491173dc2885cfccb182c3847b50e63",
+      "language": "en",
+      "languages": [
+        "en",
+        "es",
+        "fr",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 35.86166,
+        "longitude": 104.195397
+      },
+      "map": {
+        "bounds": "18.1535216,73.49941369999999,53.56097399999999,134.77281"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "China",
+      "type": "country",
+      "uuid": "5b17e380-cad8-4b62-942e-34eb5e3da17c"
+    },
+    {
+      "children_count": 9,
+      "country_code": "co",
+      "hash": "abca842a590135c6be311731d415c6806214196e",
+      "language": "en",
+      "languages": [
+        "en",
+        "es",
+        "la",
+        "pt"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 4.570868,
+        "longitude": -74.297333
+      },
+      "map": {
+        "bounds": "-4.22711,-81.73593,13.39735,-66.851923"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Colombia",
+      "type": "country",
+      "uuid": "2d185b16-3720-44cc-b4b4-ec63c6a440bf"
+    },
+    {
+      "children_count": 1,
+      "country_code": "cr",
+      "hash": "d05cfb3d4cf1bf0ab0114b2352a3189317fb020a",
+      "language": "en",
+      "languages": [
+        "en",
+        "es"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 9.748917,
+        "longitude": -83.753428
+      },
+      "map": {
+        "bounds": "5.499160799999999,-87.09451310000001,11.2196808,-82.55265709999999"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Costa Rica",
+      "type": "country",
+      "uuid": "62849891-19c9-4e75-bbbd-315ad48bae58"
+    },
+    {
+      "children_count": 16,
+      "country_code": "hr",
+      "hash": "c60b105370d2fda085006f23ba43857795fc7ceb",
+      "language": "en",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hr",
+        "it",
+        "nl",
+        "ru",
+        "tr"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 45.1,
+        "longitude": 15.2
+      },
+      "map": {
+        "bounds": "42.392265200000054,13.500677528124925,46.5552234,19.415093315624972"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Croatia",
+      "type": "country",
+      "uuid": "ad53dcb0-c128-48b4-8251-c4f6cd9c9de5"
+    },
+    {
+      "children_count": 2,
+      "country_code": "cu",
+      "hash": "028b1923e997f6c94df6164fd2fe65d745d63ab5",
+      "language": "en",
+      "languages": [
+        "en",
+        "es",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 21.521757,
+        "longitude": -77.781167
+      },
+      "map": {
+        "bounds": "19.8258994,-85.0712471,23.2767521,-74.13222309999999"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Cuba",
+      "type": "country",
+      "uuid": "05218306-7b66-4c55-8af6-6c47a0e77d73"
+    },
+    {
+      "children_count": 3,
+      "country_code": "cy",
+      "hash": "2e89cb4223c9d6a65758878e28b0f112b3fe7f4c",
+      "language": "en",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 35.126413,
+        "longitude": 33.429859
+      },
+      "map": {
+        "bounds": "34.632303,32.2687076,35.7072,34.60450000000001"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Cyprus",
+      "type": "country",
+      "uuid": "eefb521d-4d04-4c5b-83b6-8b92725d2615"
+    },
+    {
+      "children_count": 12,
+      "country_code": "cz",
+      "hash": "c8750cd079c72927e68c7e5ffb616184b329b792",
+      "language": "en",
+      "languages": [
+        "cs",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ru",
+        "uk"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 49.817492,
+        "longitude": 15.472962
+      },
+      "map": {
+        "bounds": "48.5518081,12.090589,51.0557185,18.8592361"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Czech Republic",
+      "type": "country",
+      "uuid": "47fd550d-8e85-4ece-9b51-b051ff3e9a80"
+    },
+    {
+      "children_count": 13,
+      "country_code": "dk",
+      "hash": "9a2e63bc8cc7b7e17c4bd307d856d4b66c4eda09",
+      "language": "en",
+      "languages": [
+        "da",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "nl",
+        "no",
+        "ru",
+        "sv"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 56.26392,
+        "longitude": 9.501785
+      },
+      "map": {
+        "bounds": "54.5591211,8.072240899999999,57.7518131,15.1972813"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Denmark",
+      "type": "country",
+      "uuid": "1887c4fa-10b3-4125-b316-5e1936a52ec4"
+    },
+    {
+      "children_count": 1,
+      "country_code": "do",
+      "hash": "bc1072b0d547fe358d7f5e7c24a8b3b094cb0b19",
+      "language": "en",
+      "languages": [
+        "en",
+        "es"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 18.735693,
+        "longitude": -70.162651
+      },
+      "map": {
+        "bounds": "17.4700909,-72.00751,19.9317185,-68.3234068"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Dominican Republic",
+      "type": "country",
+      "uuid": "63b8961c-f67a-4aa9-a41e-ecc24cd1be20"
+    },
+    {
+      "children_count": 1,
+      "country_code": "ec",
+      "hash": "e6e8b114a12eafc90f20756721a38f559e155e12",
+      "language": "en",
+      "languages": [
+        "en",
+        "es",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": -1.831239,
+        "longitude": -78.183406
+      },
+      "map": {
+        "bounds": "-5.014351,-92.0084595,1.6815560999999999,-75.188794"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Ecuador",
+      "type": "country",
+      "uuid": "0a860d98-c68b-4fef-99d4-a9a4874a2a46"
+    },
+    {
+      "children_count": 3,
+      "country_code": "eg",
+      "hash": "bde9f23e105e6689e1a88025b69b033d494e3845",
+      "language": "en",
+      "languages": [
+        "en",
+        "es",
+        "pt",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 26.820553,
+        "longitude": 30.802498
+      },
+      "map": {
+        "bounds": "22.0,24.6967748,31.671535,36.8945446"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Egypt",
+      "type": "country",
+      "uuid": "fc58fef9-62fb-41df-87bf-a802c0483c7e"
+    },
+    {
+      "children_count": 4,
+      "country_code": "ee",
+      "hash": "0d389a34d92ff0abc702563e5b8b32efd84bbe30",
+      "language": "en",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 58.595272,
+        "longitude": 25.013607
+      },
+      "map": {
+        "bounds": "57.50931600000001,21.7643132,59.685685,28.210139"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Estonia",
+      "type": "country",
+      "uuid": "783007e4-e4ab-4ae0-a0be-919d5ae4f537"
+    },
+    {
+      "children_count": 1,
+      "country_code": "et",
+      "hash": "9a43f92a56e268578dcbe10f540d2a4ed4e2e1cd",
+      "language": "en",
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 9.145,
+        "longitude": 40.489673
+      },
+      "map": {
+        "bounds": "3.4041356,32.997734,14.8942145,47.9999999"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Ethiopia",
+      "type": "country",
+      "uuid": "e012d3a4-966f-4564-a92b-cd1c5c462b3e"
+    },
+    {
+      "children_count": 20,
+      "country_code": "fi",
+      "hash": "6a842d764e86500570ecbffb93cae1ee5608c36d",
+      "language": "en",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fi",
+        "fr",
+        "it",
+        "ru",
+        "sv",
+        "uk"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 61.92411,
+        "longitude": 25.748151
+      },
+      "map": {
+        "bounds": "59.7054404,20.5474108,70.0922932,31.5871"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Finland",
+      "type": "country",
+      "uuid": "14f1fe04-5ae8-445f-8fc6-e840b80065a5"
+    },
+    {
+      "children_count": 367,
+      "country_code": "fr",
+      "hash": "887b1ccd28ed3d0187edad3d6516437b225203ec",
+      "language": "en",
+      "languages": [
+        "ar",
+        "bm",
+        "bn",
+        "bo",
+        "bs",
+        "ca",
+        "co",
+        "de",
+        "en",
+        "es",
+        "eu",
+        "fa",
+        "fr",
+        "hi",
+        "hy",
+        "it",
+        "ja",
+        "ka",
+        "ko",
+        "ku",
+        "kw",
+        "lb",
+        "nl",
+        "oc",
+        "ps",
+        "pt",
+        "ro",
+        "ru",
+        "sq",
+        "sr",
+        "tr",
+        "vi",
+        "zh"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 49.2983075101325,
+        "longitude": 3.10604483740235
+      },
+      "map": {
+        "bounds": "49.29634116269132,3.0967165503052456,49.302167697057165,3.1143110404296976"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "France",
+      "type": "country",
+      "uuid": "1204cada-f918-49cd-8483-81795d69e2bd"
+    },
+    {
+      "children_count": 23,
+      "country_code": "ge",
+      "hash": "853695e30fe292774761cb74dbbe53037597a976",
+      "language": "en",
+      "languages": [
+        "en",
+        "ka",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 42.315407,
+        "longitude": 43.356892
+      },
+      "map": {
+        "bounds": "41.054942,40.006604,43.586627,46.736119"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Georgia",
+      "type": "country",
+      "uuid": "0a5c9288-407c-46ba-b7ab-68dbe200d743"
+    },
+    {
+      "children_count": 68,
+      "country_code": "de",
+      "hash": "6f3c854a5b13e06b7ef66cf9c053f9c6f0cf6a3a",
+      "language": "en",
+      "languages": [
+        "ar",
+        "ca",
+        "da",
+        "de",
+        "en",
+        "eo",
+        "es",
+        "fr",
+        "it",
+        "nl",
+        "pl",
+        "pt",
+        "ru",
+        "sv",
+        "tr",
+        "uk"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 51.165691,
+        "longitude": 10.451526
+      },
+      "map": {
+        "bounds": "47.2701115,5.8663425,55.058347,15.0418962"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Germany",
+      "type": "country",
+      "uuid": "a5d4eda2-1fd0-4fa9-bfd4-73c9ba1fcb06"
+    },
+    {
+      "children_count": 2,
+      "country_code": "gi",
+      "hash": "a9620bccffac51cbfc45786c079806c1a4660987",
+      "language": "en",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "pl",
+        "pt"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 36.140751,
+        "longitude": -5.353585
+      },
+      "map": {
+        "bounds": "36.1088348,-5.3674154,36.1551187,-5.338419399999999"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Gibraltar",
+      "type": "country",
+      "uuid": "6887c09e-cce8-4136-9ab3-3ba1eef91fe5"
+    },
+    {
+      "children_count": 11,
+      "country_code": "gr",
+      "hash": "ca14f90e3b78a01cd140c9b1ec02fe24e9768d6d",
+      "language": "en",
+      "languages": [
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "nl",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 39.074208,
+        "longitude": 21.824312
+      },
+      "map": {
+        "bounds": "34.728819094521214,19.372422700000016,41.650444168126796,26.305303849999973"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Greece",
+      "type": "country",
+      "uuid": "9fe9aad7-d379-4c87-b188-e13436824d3c"
+    },
+    {
+      "children_count": 2,
+      "country_code": "gp",
+      "hash": "5de661c1ad8ee127bf1115f661e89ad535cd7981",
+      "language": "en",
+      "languages": [
+        "en",
+        "es",
+        "fr",
+        "ht"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 16.265,
+        "longitude": -61.551
+      },
+      "map": {
+        "bounds": "15.8319387,-61.8090819,16.514251,-61.0016727"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Guadeloupe",
+      "type": "country",
+      "uuid": "21330cd1-50ea-418c-8e44-bc507a875f5f"
+    },
+    {
+      "children_count": 4,
+      "country_code": "hk",
+      "hash": "65a56f94a094156108af94aa0c03bec652862665",
+      "language": "en",
+      "languages": [
+        "en",
+        "zh"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 22.396428,
+        "longitude": 114.109497
+      },
+      "map": {
+        "bounds": "22.1533884,113.835078,22.561968,114.4069561"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Hong Kong",
+      "type": "country",
+      "uuid": "301f840b-1518-4d18-8324-61b04134e3f6"
+    },
+    {
+      "children_count": 12,
+      "country_code": "hu",
+      "hash": "0cede715157cdb80f7bd53b28342144452c66c6d",
+      "language": "en",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hu",
+        "it",
+        "nl",
+        "ru",
+        "sk",
+        "uk"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 47.162494,
+        "longitude": 19.503304
+      },
+      "map": {
+        "bounds": "45.7370889,16.1133866,48.585234,22.8981217"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Hungary",
+      "type": "country",
+      "uuid": "479b2407-d9eb-4191-a74e-f37857c7b54b"
+    },
+    {
+      "children_count": 2,
+      "country_code": "is",
+      "hash": "f8c18f5022da252cf4b2a7cbd7e8761a3cf8ea0d",
+      "language": "en",
+      "languages": [
+        "en",
+        "fr",
+        "it"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 64.963051,
+        "longitude": -19.020835
+      },
+      "map": {
+        "bounds": "63.2961021,-24.546524,66.56631829999999,-13.4958154"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Iceland",
+      "type": "country",
+      "uuid": "89c849ea-4ca9-4900-a52c-2a5577597fd5"
+    },
+    {
+      "children_count": 6,
+      "country_code": "in",
+      "hash": "e4d6c5d842e043ba1b7389cf3d2ee5f9cc65a9d0",
+      "language": "en",
+      "languages": [
+        "en",
+        "hi",
+        "mr",
+        "my",
+        "ru",
+        "si",
+        "th"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 20.593684,
+        "longitude": 78.96288
+      },
+      "map": {
+        "bounds": "7.7126076540837865,68.16238599999997,33.91507027404801,89.92485187500006"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "India",
+      "type": "country",
+      "uuid": "c6a1764d-50ea-411f-92f3-1b24409a76f5"
+    },
+    {
+      "children_count": 6,
+      "country_code": "id",
+      "hash": "2fb6d061126dbae23d04ae4fb14f3bbc1027b7da",
+      "language": "en",
+      "languages": [
+        "en",
+        "id",
+        "nl"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": -0.789275,
+        "longitude": 113.921327
+      },
+      "map": {
+        "bounds": "-11.007436100000001,95.00970699999993,6.076912,141.37112449999995"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Indonesia",
+      "type": "country",
+      "uuid": "16793708-76a0-483b-87cb-36b871391282"
+    },
+    {
+      "children_count": 4,
+      "country_code": "ir",
+      "hash": "a48f9377a65041c38d1384dfdcedf6814006fc73",
+      "language": "en",
+      "languages": [
+        "en",
+        "fa",
+        "it",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 32.427908,
+        "longitude": 53.688046
+      },
+      "map": {
+        "bounds": "25.0594286,44.0318907,39.7816755,63.3333366"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Iran",
+      "type": "country",
+      "uuid": "c2345a6d-39d7-49f9-808b-d53dc404839b"
+    },
+    {
+      "children_count": 1,
+      "country_code": "iq",
+      "hash": "0b9adf1b9a5ebf291c691480c9bc37f34fa27f63",
+      "language": "en",
+      "languages": [
+        "ar",
+        "en",
+        "ku"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 33.223191,
+        "longitude": 43.679291
+      },
+      "map": {
+        "bounds": "29.061208,38.7936028,37.38093200000001,48.5759163"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Iraq",
+      "type": "country",
+      "uuid": "7455c761-8f6d-45fc-9e88-8edfab683c82"
+    },
+    {
+      "children_count": 8,
+      "country_code": "ie",
+      "hash": "1013cdac129f59d4a8f69c3cc9547fd146007961",
+      "language": "en",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 53.41291,
+        "longitude": -8.24389
+      },
+      "map": {
+        "bounds": "51.4219377,-10.66958,55.3884899,-5.994700099999999"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Ireland",
+      "type": "country",
+      "uuid": "17f65fa7-b3f6-4d96-9447-81b15ec8a7be"
+    },
+    {
+      "children_count": 10,
+      "country_code": "il",
+      "hash": "99142fa77baa2b31c946e6f4ce10a7f848e621e0",
+      "language": "en",
+      "languages": [
+        "en",
+        "fr",
+        "he",
+        "it",
+        "nl",
+        "ru",
+        "zh"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 31.046051,
+        "longitude": 34.851612
+      },
+      "map": {
+        "bounds": "29.4906463,34.267387,33.33280500000001,35.896244"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Israel",
+      "type": "country",
+      "uuid": "74c2b2eb-2c6f-436b-b9fd-333cdfb6aa46"
+    },
+    {
+      "children_count": 542,
+      "country_code": "it",
+      "hash": "d10c028603a6d0199f898318e3ee6afe952e5fdd",
+      "language": "en",
+      "languages": [
+        "ar",
+        "da",
+        "de",
+        "en",
+        "es",
+        "fa",
+        "fi",
+        "fr",
+        "hi",
+        "ia",
+        "it",
+        "ja",
+        "ko",
+        "la",
+        "lt",
+        "lv",
+        "nl",
+        "no",
+        "pl",
+        "pt",
+        "ro",
+        "ru",
+        "sc",
+        "si",
+        "sl",
+        "sq",
+        "sv",
+        "tr",
+        "uk",
+        "zh"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 41.87194,
+        "longitude": 12.56738
+      },
+      "map": {
+        "bounds": "35.4929201,6.6267201,47.092,18.5205015"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Italy",
+      "type": "country",
+      "uuid": "a86219ac-eb5e-47c7-8a34-94183eab6a08"
+    },
+    {
+      "children_count": 2,
+      "country_code": "jp",
+      "hash": "eecc216382d0bb861eae89c14b4cdee242c2e8f7",
+      "language": "en",
+      "languages": [
+        "en",
+        "es",
+        "fr",
+        "ru",
+        "zh"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 36.204824,
+        "longitude": 138.252924
+      },
+      "map": {
+        "bounds": "29.38177489467107,129.6574630125,43.803877662919994,146.38269043750006"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Japan",
+      "type": "country",
+      "uuid": "115c0a27-7221-4ae0-8c99-b70009b008af"
+    },
+    {
+      "children_count": 62,
+      "country_code": "kz",
+      "hash": "1d9559377e9a8a55b97a3f65472b5d9b6706b225",
+      "language": "en",
+      "languages": [
+        "de",
+        "en",
+        "kk",
+        "ru",
+        "tr",
+        "zh"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 48.019573,
+        "longitude": 66.923684
+      },
+      "map": {
+        "bounds": "40.568584,46.4936719,55.441984,87.315415"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Kazakhstan",
+      "type": "country",
+      "uuid": "2b6de2d2-71c5-4d64-b8a6-cd8c79d92805"
+    },
+    {
+      "children_count": 2,
+      "country_code": "ke",
+      "hash": "fc4b8dc133b4b8d510ffdeb1dc7ec23ab3ec5971",
+      "language": "en",
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": -0.023559,
+        "longitude": 37.906193
+      },
+      "map": {
+        "bounds": "-4.679681599999999,33.9098213,5.033420899999999,41.9068316"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Kenya",
+      "type": "country",
+      "uuid": "ea943eed-b0ca-4421-923e-7499176f27ec"
+    },
+    {
+      "children_count": 7,
+      "country_code": "kg",
+      "hash": "b01704e2f71487ecfd4f71c7f458337b695bdf19",
+      "language": "en",
+      "languages": [
+        "en",
+        "ky",
+        "ru",
+        "tr"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 41.20438,
+        "longitude": 74.766098
+      },
+      "map": {
+        "bounds": "39.180254,69.250998,43.26535699999999,80.22655929999999"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Kyrgyzstan",
+      "type": "country",
+      "uuid": "ce965753-34e9-430f-ade3-5d684d3e4ab1"
+    },
+    {
+      "children_count": 1,
+      "country_code": "la",
+      "hash": "9545b79b48e91346dcb9df33a846d69a1e663fd5",
+      "language": "en",
+      "languages": [
+        "en",
+        "fr",
+        "lo"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 19.85627,
+        "longitude": 102.495496
+      },
+      "map": {
+        "bounds": "13.90972,100.083214,22.502872,107.69483"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Laos",
+      "type": "country",
+      "uuid": "eb3b7d34-3069-4041-b698-b9a3f4fc3bb4"
+    },
+    {
+      "children_count": 24,
+      "country_code": "lv",
+      "hash": "89e2f69871576d001881fe27373cb3088d4e20e4",
+      "language": "en",
+      "languages": [
+        "de",
+        "en",
+        "et",
+        "fr",
+        "lt",
+        "lv",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 56.879635,
+        "longitude": 24.603189
+      },
+      "map": {
+        "bounds": "55.6747769,20.9700939,58.0855688,28.2414029"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Latvia",
+      "type": "country",
+      "uuid": "2ddbb849-6205-4efc-88eb-9106041cce80"
+    },
+    {
+      "children_count": 1,
+      "country_code": "li",
+      "hash": "b7af21cdadb6a2c938ff5a5de69968448c4214aa",
+      "language": "en",
+      "languages": [
+        "de",
+        "en"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 47.166,
+        "longitude": 9.555373
+      },
+      "map": {
+        "bounds": "47.04828999999999,9.47162,47.2705467,9.6356501"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Liechtenstein",
+      "type": "country",
+      "uuid": "aff03cfb-8cc5-4b9e-9a71-d313f27822fd"
+    },
+    {
+      "children_count": 10,
+      "country_code": "lt",
+      "hash": "ef66bb0fa6761d96ddaaad04b2834f2c84e82593",
+      "language": "en",
+      "languages": [
+        "be",
+        "en",
+        "fr",
+        "lt",
+        "nl",
+        "ru",
+        "uk"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 55.169438,
+        "longitude": 23.881275
+      },
+      "map": {
+        "bounds": "53.89687869999999,20.9540118,56.45032089999999,26.8355913"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Lithuania",
+      "type": "country",
+      "uuid": "d3da027d-46a0-41d9-8947-5fb728a5baa6"
+    },
+    {
+      "children_count": 23,
+      "country_code": "lu",
+      "hash": "c4665d9efcaa0ad560463a2ba2c380c20fc71f71",
+      "language": "en",
+      "languages": [
+        "de",
+        "en",
+        "fr",
+        "lb",
+        "nl",
+        "pt"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 49.815273,
+        "longitude": 6.129583
+      },
+      "map": {
+        "bounds": "49.447779,5.7356698999999995,50.18282,6.530970099999999"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Luxembourg",
+      "type": "country",
+      "uuid": "49031cc3-1544-478d-b614-a82b6210a263"
+    },
+    {
+      "children_count": 2,
+      "country_code": "mg",
+      "hash": "9d79a18e9b18f805f899c3e674ec28b46dc1866e",
+      "language": "en",
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": -18.766947,
+        "longitude": 46.869107
+      },
+      "map": {
+        "bounds": "-25.6065717,43.1851395,-11.951963899999999,50.48377989999999"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Madagascar",
+      "type": "country",
+      "uuid": "45a774fe-d5c8-49ca-b673-dc13568909ae"
+    },
+    {
+      "children_count": 11,
+      "country_code": "mt",
+      "hash": "f5dfbcaef478dbda46714f8421be6848c8b3c820",
+      "language": "en",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "ru",
+        "zh"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 35.937496,
+        "longitude": 14.375416
+      },
+      "map": {
+        "bounds": "35.805811,14.1835484,36.0822238,14.5755001"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Malta",
+      "type": "country",
+      "uuid": "58f59e93-230e-42a8-8062-515b8b74660f"
+    },
+    {
+      "children_count": 4,
+      "country_code": "mx",
+      "hash": "a8c4eee1be8b37d5ca53bb979260b98f289e0adc",
+      "language": "en",
+      "languages": [
+        "en",
+        "es",
+        "fr",
+        "pt",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 23.634501,
+        "longitude": -102.552784
+      },
+      "map": {
+        "bounds": "14.5345485,-118.36443,32.7187629,-86.7105711"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Mexico",
+      "type": "country",
+      "uuid": "47d26fd8-d155-411a-b8c7-b7926c2df30e"
+    },
+    {
+      "children_count": 3,
+      "country_code": "md",
+      "hash": "12c3135ff5401a37e770b1d9360d661fc88a3a4f",
+      "language": "en",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ro",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 47.411631,
+        "longitude": 28.369885
+      },
+      "map": {
+        "bounds": "45.466904,26.6168559,48.491944,30.162538"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Moldova",
+      "type": "country",
+      "uuid": "6ccf638a-b6a0-4a6d-8a55-34279c9d15f9"
+    },
+    {
+      "children_count": 1,
+      "country_code": "mc",
+      "hash": "51528ef9527fbd60a25af64c97ca6f76a4fd5ca0",
+      "language": "en",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 43.7384176,
+        "longitude": 7.4246158
+      },
+      "map": {
+        "bounds": "43.7247428,7.4091049,43.7519029,7.4398113"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Monaco",
+      "type": "country",
+      "uuid": "e86159b1-2291-4d63-aeb9-69f46f2b2e78"
+    },
+    {
+      "children_count": 3,
+      "country_code": "me",
+      "hash": "3ef53ffe79482fa9ca98c284d7874f9c49772560",
+      "language": "en",
+      "languages": [
+        "de",
+        "en",
+        "ru",
+        "sr"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 42.708678,
+        "longitude": 19.37439
+      },
+      "map": {
+        "bounds": "41.8501017,18.4337921,43.558743,20.357765"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Montenegro",
+      "type": "country",
+      "uuid": "0a60acbb-398c-4f69-94e5-33804474c1ab"
+    },
+    {
+      "children_count": 2,
+      "country_code": "ma",
+      "hash": "064e0c421004b3102a0ef16c365b6d6be91c1d86",
+      "language": "en",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "fr"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 31.791702,
+        "longitude": -7.09262
+      },
+      "map": {
+        "bounds": "27.6666665,-13.1728914,35.9225072,-0.9969758"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Morocco",
+      "type": "country",
+      "uuid": "616c98d1-fef0-41bc-ae73-6403e9e87d13"
+    },
+    {
+      "children_count": 1,
+      "country_code": "mz",
+      "hash": "03975c5999f674b42303d124190fc631bd4f292f",
+      "language": "en",
+      "languages": [
+        "en",
+        "pt"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": -18.665695,
+        "longitude": 35.529562
+      },
+      "map": {
+        "bounds": "-26.868108499999998,30.2155496,-10.4712022,40.8391213"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Mozambique",
+      "type": "country",
+      "uuid": "a937938f-c49a-4460-a9f8-fda668bc42a4"
+    },
+    {
+      "children_count": 327,
+      "country_code": "nl",
+      "hash": "625fa5ae924390fdc162e25d704549f83ec2dac8",
+      "language": "en",
+      "languages": [
+        "ar",
+        "bg",
+        "cs",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "fy",
+        "it",
+        "ja",
+        "ko",
+        "li",
+        "mr",
+        "nb",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "ru",
+        "zh"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 52.132633,
+        "longitude": 5.291266
+      },
+      "map": {
+        "bounds": "50.75038379999999,3.357962,53.5560213,7.227510199999999"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Netherlands",
+      "type": "country",
+      "uuid": "15845ecf-4274-4286-b086-e407ff8207de"
+    },
+    {
+      "children_count": 13,
+      "country_code": "nz",
+      "hash": "f84d6e9ef72e3e2ce034be068ef9bd748f9f9a63",
+      "language": "en",
+      "languages": [
+        "en",
+        "fr",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": -40.900557,
+        "longitude": 174.885971
+      },
+      "map": {
+        "bounds": "-52.61941849999999,165.8694369,-29.2313419,-175.831536"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "New Zealand",
+      "type": "country",
+      "uuid": "831933ed-2935-44bd-bcd6-5b7f043a0d90"
+    },
+    {
+      "children_count": 2,
+      "country_code": "ni",
+      "hash": "43e15e4442cba81016e7a64323b5208fff185174",
+      "language": "en",
+      "languages": [
+        "en",
+        "es",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 12.865416,
+        "longitude": -85.207229
+      },
+      "map": {
+        "bounds": "10.708055,-87.6910686,15.0302755,-82.5920715"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Nicaragua",
+      "type": "country",
+      "uuid": "d0ad53e7-4125-469d-8653-210f28318f58"
+    },
+    {
+      "children_count": 1,
+      "country_code": "ne",
+      "hash": "0829e11638fd9a410a790ddfae7521c3b74b0841",
+      "language": "en",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 17.607789,
+        "longitude": 8.081666
+      },
+      "map": {
+        "bounds": "11.69376,0.1666672,23.5000002,15.999034"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Niger",
+      "type": "country",
+      "uuid": "ff178aa8-fed0-4fdf-bea6-dda02caa1e59"
+    },
+    {
+      "children_count": 1,
+      "country_code": "ng",
+      "hash": "9b7a93ab1af70df0af0eb07d50ef2f57c9a91422",
+      "language": "en",
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 9.081999,
+        "longitude": 8.675277
+      },
+      "map": {
+        "bounds": "4.269857099999999,2.676932,13.885645,14.6779815"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Nigeria",
+      "type": "country",
+      "uuid": "61f69afd-c13e-4985-95d9-857fd5a19513"
+    },
+    {
+      "children_count": 10,
+      "country_code": "mk",
+      "hash": "59e6eaa3ff226617394105e443e11f00cf16b2bc",
+      "language": "en",
+      "languages": [
+        "de",
+        "en",
+        "fr",
+        "mk"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 41.608635,
+        "longitude": 21.745275
+      },
+      "map": {
+        "bounds": "40.8537826,20.452423,42.373646,23.034093"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "North Macedonia",
+      "type": "country",
+      "uuid": "302a904f-142d-4ded-bca5-b318e787cbc6"
+    },
+    {
+      "children_count": 10,
+      "country_code": "no",
+      "hash": "2d6228b7f0226b9d90685bbb96fd9fae1e2f2221",
+      "language": "en",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "nb",
+        "nl",
+        "nn",
+        "no",
+        "ru",
+        "sv",
+        "uk"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 60.472024,
+        "longitude": 8.468946
+      },
+      "map": {
+        "bounds": "57.95974380000001,4.5000962,71.1854762,31.1682684"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Norway",
+      "type": "country",
+      "uuid": "78d1711b-7c4f-4269-903b-b3debfea4828"
+    },
+    {
+      "children_count": 1,
+      "country_code": "pk",
+      "hash": "35d4b6edb4f36a1b08304047c4b30e4885329ea8",
+      "language": "en",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 30.375321,
+        "longitude": 69.345116
+      },
+      "map": {
+        "bounds": "23.6946945,60.872972,37.084107,77.8334694"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Pakistan",
+      "type": "country",
+      "uuid": "f8eb3439-8701-4507-a456-8b9ca0357148"
+    },
+    {
+      "children_count": 7,
+      "country_code": "pa",
+      "hash": "bbb4f091c0807570d4e70c4a4e96c5bf6be23ada",
+      "language": "en",
+      "languages": [
+        "en",
+        "es"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 9.00486668860046,
+        "longitude": -79.5159526835937
+      },
+      "map": {
+        "bounds": "9.580756083918173,-83.19918323867188,7.136110048375271,-77.30543013867191"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Panama",
+      "type": "country",
+      "uuid": "5b0d12f3-78f9-4e74-9b6f-f2c53d579dee"
+    },
+    {
+      "children_count": 2,
+      "country_code": "pe",
+      "hash": "7c620dcad943079c0400b697ca3703feedb72967",
+      "language": "en",
+      "languages": [
+        "en",
+        "es",
+        "fr",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": -9.189967,
+        "longitude": -75.015152
+      },
+      "map": {
+        "bounds": "-18.3515802,-81.32850409999999,-0.038777,-68.652329"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Peru",
+      "type": "country",
+      "uuid": "80ab5848-c814-4f29-982b-9efb95ba9a96"
+    },
+    {
+      "children_count": 2,
+      "country_code": "ph",
+      "hash": "160b1715310a926bf55badd12ec0efe1e9d5ed8b",
+      "language": "en",
+      "languages": [
+        "en",
+        "ru",
+        "zh"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 12.879721,
+        "longitude": 121.774017
+      },
+      "map": {
+        "bounds": "5.724969807001178,117.38407164375008,19.38759106426323,126.60438369999997"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Philippines",
+      "type": "country",
+      "uuid": "e1a14c5b-1b85-4f4d-87e6-c71ed1b15383"
+    },
+    {
+      "children_count": 15,
+      "country_code": "pl",
+      "hash": "52f837985b007a8ba13f208cd5f331eae032ea99",
+      "language": "en",
+      "languages": [
+        "cs",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "nl",
+        "pl",
+        "ru",
+        "uk"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 51.919438,
+        "longitude": 19.145136
+      },
+      "map": {
+        "bounds": "49.0020252,14.1228641,54.835784,24.1458931"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Poland",
+      "type": "country",
+      "uuid": "24536dec-0843-46c6-8955-c0f45f93444b"
+    },
+    {
+      "children_count": 55,
+      "country_code": "pt",
+      "hash": "9ec154836714c3fe480f646cdc56476909a18618",
+      "language": "en",
+      "languages": [
+        "ca",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "zh"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 39.399872,
+        "longitude": -8.224454
+      },
+      "map": {
+        "bounds": "32.40374,-31.2753296,42.1542048,-6.1902091"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Portugal",
+      "type": "country",
+      "uuid": "d88220b0-79bf-4b1a-9ba3-9d84c7c6d28e"
+    },
+    {
+      "children_count": 45,
+      "country_code": "ro",
+      "hash": "e3b713b375a2c245303cb5f7e2f9475fa46f7363",
+      "language": "en",
+      "languages": [
+        "de",
+        "en",
+        "es",
+        "fr",
+        "hu",
+        "it",
+        "ro",
+        "ru",
+        "sr"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 45.943161,
+        "longitude": 24.96676
+      },
+      "map": {
+        "bounds": "43.6186193,20.2617592,48.265274,29.7571019"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Romania",
+      "type": "country",
+      "uuid": "2900b248-e71f-4e57-b167-3061211926ce"
+    },
+    {
+      "children_count": 422,
+      "country_code": "ru",
+      "hash": "1b85fbdfdf6b35fec5182abdb809d36b77796b49",
+      "language": "en",
+      "languages": [
+        "ba",
+        "be",
+        "de",
+        "en",
+        "es",
+        "fa",
+        "fi",
+        "fr",
+        "it",
+        "ja",
+        "ko",
+        "kv",
+        "nl",
+        "pl",
+        "ru",
+        "sr",
+        "tt",
+        "uk",
+        "zh"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 61.52401,
+        "longitude": 105.318756
+      },
+      "map": {
+        "bounds": "41.185353,19.6403534,81.858122,-169.0467267"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Russia",
+      "type": "country",
+      "uuid": "fa67b72f-615a-42d9-bed4-f6899e2679bc"
+    },
+    {
+      "children_count": 1,
+      "country_code": "ws",
+      "hash": "f97f117df9dc82c94a1dae9ff20cb873f3ad4f01",
+      "language": "en",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": -13.759029,
+        "longitude": -172.104629
+      },
+      "map": {
+        "bounds": "-14.0765884,-172.8036764,-13.4400333,-171.405859"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Samoa",
+      "type": "country",
+      "uuid": "5fc42252-aecb-4c20-b9f8-f487cf1af2bf"
+    },
+    {
+      "children_count": 2,
+      "country_code": "sm",
+      "hash": "e7eb1977c4411f2029060e979fe15a0fe87491f6",
+      "language": "en",
+      "languages": [
+        "en",
+        "it",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 43.94236,
+        "longitude": 12.457777
+      },
+      "map": {
+        "bounds": "43.8936809,12.4034824,43.992075,12.5167041"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "San Marino",
+      "type": "country",
+      "uuid": "53aedbb0-aa2f-4d2d-94b6-84bb1a54964c"
+    },
+    {
+      "children_count": 1,
+      "country_code": "sa",
+      "hash": "62ac61e9f073073410bbd131e74d624c08cec5f0",
+      "language": "en",
+      "languages": [
+        "ar",
+        "en"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 23.885942,
+        "longitude": 45.079162
+      },
+      "map": {
+        "bounds": "16.379528,34.5489979,32.154284,55.66670000000001"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Saudi Arabia",
+      "type": "country",
+      "uuid": "cd3e9a45-53b7-4a76-8549-ac92197e5611"
+    },
+    {
+      "children_count": 8,
+      "country_code": "rs",
+      "hash": "a86fbcdd0ce6a9fab72f264cf62b5cc92d28b6d7",
+      "language": "en",
+      "languages": [
+        "en",
+        "fr",
+        "hr",
+        "it",
+        "ru",
+        "sr"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 44.016521,
+        "longitude": 21.005859
+      },
+      "map": {
+        "bounds": "42.231503,18.8385221,46.190032,23.0063095"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Serbia",
+      "type": "country",
+      "uuid": "0f32acc6-5f9a-451e-8b18-308714d89ec7"
+    },
+    {
+      "children_count": 1,
+      "country_code": "sg",
+      "hash": "e53952fb7c717c9f91dea1895c156d49b0e92ee6",
+      "language": "en",
+      "languages": [
+        "en",
+        "es",
+        "fr"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 1.352083,
+        "longitude": 103.819836
+      },
+      "map": {
+        "bounds": "1.1663552,103.6065099,1.4707717,104.0855574"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Singapore",
+      "type": "country",
+      "uuid": "765b6b8a-aab6-4aa6-93a9-ad57b9750d63"
+    },
+    {
+      "children_count": 1,
+      "country_code": "sk",
+      "hash": "1d67232ed29a94909ffebe77a03aa41f76bd8fa0",
+      "language": "en",
+      "languages": [
+        "en",
+        "ru",
+        "sk"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 48.669026,
+        "longitude": 19.699024
+      },
+      "map": {
+        "bounds": "47.731159,16.8331821,49.61380510000001,22.5589339"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Slovakia",
+      "type": "country",
+      "uuid": "23cf4869-8f44-4a27-853d-af52d3ed975b"
+    },
+    {
+      "children_count": 6,
+      "country_code": "si",
+      "hash": "aa815eda7f44d485b096a5d4212a4155c16f3590",
+      "language": "en",
+      "languages": [
+        "de",
+        "en",
+        "fr",
+        "hu",
+        "it",
+        "sl"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 46.151241,
+        "longitude": 14.995463
+      },
+      "map": {
+        "bounds": "45.4216739,13.3753355,46.876659,16.5966857"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Slovenia",
+      "type": "country",
+      "uuid": "923263f9-dab6-4da7-8d49-5941348633a8"
+    },
+    {
+      "children_count": 11,
+      "country_code": "za",
+      "hash": "59885e2031da6dc7d84b40ccc47f553faaf78cd5",
+      "language": "en",
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": -30.559482,
+        "longitude": 22.937506
+      },
+      "map": {
+        "bounds": "-34.8331382,16.4544359,-22.1253869,32.8909911"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "South Africa",
+      "type": "country",
+      "uuid": "9197b442-1236-4713-9a4f-659f58a12eff"
+    },
+    {
+      "children_count": 1,
+      "country_code": "kr",
+      "hash": "49d267b637e410fe98aab4d983c108e0b850f054",
+      "language": "en",
+      "languages": [
+        "en",
+        "es",
+        "fr",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 35.907757,
+        "longitude": 127.766922
+      },
+      "map": {
+        "bounds": "33.1061096,124.608139,38.6169312,130.9232178"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "South Korea",
+      "type": "country",
+      "uuid": "2ca3c33b-4eb1-47d3-b362-220c2909907f"
+    },
+    {
+      "children_count": 184,
+      "country_code": "es",
+      "hash": "b9496ebad1cdb8da65a5baca9018a7bfcbf2dc3e",
+      "language": "en",
+      "languages": [
+        "ar",
+        "ca",
+        "da",
+        "de",
+        "en",
+        "es",
+        "eu",
+        "fi",
+        "fr",
+        "gl",
+        "hu",
+        "it",
+        "nl",
+        "pt",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 40.463667,
+        "longitude": -3.74922
+      },
+      "map": {
+        "bounds": "27.6377894,-18.160788,43.7923795,4.3277839"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Spain",
+      "type": "country",
+      "uuid": "ecf15373-84fe-436d-a556-b119f43fa41c"
+    },
+    {
+      "children_count": 1,
+      "country_code": "lk",
+      "hash": "4aa41b0a9a7bc7a6627822343868253df68057ca",
+      "language": "en",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 7.873054,
+        "longitude": 80.771797
+      },
+      "map": {
+        "bounds": "5.9190779,79.5219827,9.836001,81.8787029"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Sri Lanka",
+      "type": "country",
+      "uuid": "23349c77-9539-4170-a839-d777a1369336"
+    },
+    {
+      "children_count": 1,
+      "country_code": "sd",
+      "hash": "a7bfc7bfc59f913f8b575af7d7f24f016dd51411",
+      "language": "en",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 12.862807,
+        "longitude": 30.217636
+      },
+      "map": {
+        "bounds": "9.3472209,21.814939,22.2249183,38.58421920000001"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Sudan",
+      "type": "country",
+      "uuid": "2b1a1795-1d0d-4cbc-a4bd-94d36f6c91a9"
+    },
+    {
+      "children_count": 37,
+      "country_code": "se",
+      "hash": "e9d763523377d6dbc4920aba9cd9931356915c08",
+      "language": "en",
+      "languages": [
+        "da",
+        "de",
+        "en",
+        "es",
+        "fi",
+        "fr",
+        "it",
+        "ja",
+        "nl",
+        "pl",
+        "ru",
+        "sv",
+        "yi",
+        "zh"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 60.128161,
+        "longitude": 18.643501
+      },
+      "map": {
+        "bounds": "55.3367024,10.9631866,69.0599709,24.1668093"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Sweden",
+      "type": "country",
+      "uuid": "e1f097b6-db16-4629-92f6-c34bd1d587ad"
+    },
+    {
+      "children_count": 82,
+      "country_code": "ch",
+      "hash": "11df272d7963f01f44420e29d072baab8e3c85c1",
+      "language": "en",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "he",
+        "it",
+        "ja",
+        "pl",
+        "ru",
+        "zh"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 46.818188,
+        "longitude": 8.227512
+      },
+      "map": {
+        "bounds": "45.81792,5.95608,47.8084546,10.4923401"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Switzerland",
+      "type": "country",
+      "uuid": "7b044dfa-9b54-4e8e-9f1e-0cdf78a0409a"
+    },
+    {
+      "children_count": 1,
+      "country_code": "sy",
+      "hash": "da7d3e920ad74597a15f7e8783b08c2a29a617ae",
+      "language": "en",
+      "languages": [
+        "ar",
+        "en",
+        "es",
+        "fr",
+        "nl",
+        "ru",
+        "zh"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 34.802075,
+        "longitude": 38.996815
+      },
+      "map": {
+        "bounds": "32.311136,35.7165956,37.3205689,42.376309"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Syria",
+      "type": "country",
+      "uuid": "30fcce36-95bd-4446-95d8-9492f47ea857"
+    },
+    {
+      "children_count": 8,
+      "country_code": "tw",
+      "hash": "dbfaf90d81100d50fde9e04834d725760231ea7d",
+      "language": "en",
+      "languages": [
+        "en",
+        "zh"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 23.69781,
+        "longitude": 120.960515
+      },
+      "map": {
+        "bounds": "20.5637908,116.7118602,26.3873532,123.4934282"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Taiwan",
+      "type": "country",
+      "uuid": "0144b141-3c91-4cfc-9c26-9ce6666de47e"
+    },
+    {
+      "children_count": 3,
+      "country_code": "tj",
+      "hash": "4e564a49f225b05ddf56aa876e2b152a04d9c99c",
+      "language": "en",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 38.861034,
+        "longitude": 71.276093
+      },
+      "map": {
+        "bounds": "36.6719898,67.342012,41.044367,75.15395629999999"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Tajikistan",
+      "type": "country",
+      "uuid": "3926ed14-2b59-4b59-8f6d-189131700004"
+    },
+    {
+      "children_count": 1,
+      "country_code": "tz",
+      "hash": "cc937025b1060b9f862add6125e7df846c35f5e2",
+      "language": "en",
+      "languages": [
+        "en",
+        "nl",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": -6.369028,
+        "longitude": 34.888822
+      },
+      "map": {
+        "bounds": "-11.7612536,29.34,-0.984397,40.4449653"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Tanzania",
+      "type": "country",
+      "uuid": "2e67c71c-95af-4966-ad2f-427a6c4500cb"
+    },
+    {
+      "children_count": 4,
+      "country_code": "th",
+      "hash": "2c2abf9849888ca0274eca94b34664b657200382",
+      "language": "en",
+      "languages": [
+        "en",
+        "es",
+        "ru",
+        "th"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 15.870032,
+        "longitude": 100.992541
+      },
+      "map": {
+        "bounds": "5.6127293,97.343396,20.465143,105.636812"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Thailand",
+      "type": "country",
+      "uuid": "829f19d7-6903-4372-b32d-9e87190adceb"
+    },
+    {
+      "children_count": 16,
+      "country_code": "tr",
+      "hash": "2dfa67cec7a435b329831ed8a6a1f55f5d066ad6",
+      "language": "en",
+      "languages": [
+        "ar",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "nl",
+        "pl",
+        "ru",
+        "tr",
+        "zh"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 38.963745,
+        "longitude": 35.243322
+      },
+      "map": {
+        "bounds": "35.8076804,25.6636372,42.106239,44.818128"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Turkey",
+      "type": "country",
+      "uuid": "2e797602-3305-47e2-abcc-44fd59585bad"
+    },
+    {
+      "children_count": 74,
+      "country_code": "ua",
+      "hash": "8a9cf335808a9e084346c2b5c3698ea5e664c5e8",
+      "language": "en",
+      "languages": [
+        "de",
+        "en",
+        "fr",
+        "pl",
+        "ro",
+        "ru",
+        "uk",
+        "zh"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 48.379433,
+        "longitude": 31.16558
+      },
+      "map": {
+        "bounds": "44.386463,22.1371589,52.37958099999999,40.228581"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Ukraine",
+      "type": "country",
+      "uuid": "69929d8f-ba82-49b2-88fe-e5a0c687caca"
+    },
+    {
+      "children_count": 18,
+      "country_code": "ae",
+      "hash": "06e2388218ed9ff2f1bc34cf067526daa5120dd1",
+      "language": "en",
+      "languages": [
+        "en",
+        "fr",
+        "ru"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 23.424076,
+        "longitude": 53.847818
+      },
+      "map": {
+        "bounds": "22.6315138,51.69545900624996,26.19787524326698,56.38157849999993"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "United Arab Emirates",
+      "type": "country",
+      "uuid": "acf63e3e-fc7f-49c6-be11-21a4b354c90b"
+    },
+    {
+      "children_count": 323,
+      "country_code": "gb",
+      "hash": "d185819bed97000bdf89071dd2180c1fafb6dbdc",
+      "language": "en",
+      "languages": [
+        "ar",
+        "cs",
+        "cy",
+        "de",
+        "el",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "nl",
+        "pt",
+        "ru",
+        "th",
+        "zh"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 55.378051,
+        "longitude": -3.435973
+      },
+      "map": {
+        "bounds": "50.821087982114314,-8.64935719999994,60.902396,1.5728050000000167"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "United Kingdom",
+      "type": "country",
+      "uuid": "7caffa20-cf3e-4149-81db-bb0b0a0e435c"
+    },
+    {
+      "children_count": 799,
+      "country_code": "us",
+      "hash": "dcfdc1e53a421fe2ba8611d119a7aa8c3fca6abe",
+      "language": "en",
+      "languages": [
+        "cs",
+        "da",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "ht",
+        "it",
+        "ja",
+        "nl",
+        "pt",
+        "ru",
+        "vi",
+        "zh"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 37.09024,
+        "longitude": -95.712891
+      },
+      "map": {
+        "bounds": "18.9110642,-169.09707125,71.389888,-66.94976079999998"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "United States",
+      "type": "country",
+      "uuid": "cbdbad93-08d3-4ce9-bcbd-8d9cee7ca35c"
+    },
+    {
+      "children_count": 1,
+      "country_code": "uy",
+      "hash": "0da2684c1cc3c4967041e5f379dc1d1a526479d9",
+      "language": "en",
+      "languages": [
+        "en",
+        "es",
+        "pt"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": -32.522779,
+        "longitude": -55.765835
+      },
+      "map": {
+        "bounds": "-35.0314185,-58.43915,-30.085215,-53.1842925"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Uruguay",
+      "type": "country",
+      "uuid": "1033be23-f0c9-4593-bd9a-1a5a0e8a76a7"
+    },
+    {
+      "children_count": 4,
+      "country_code": "uz",
+      "hash": "0901e05dc8a53842f905f529070ce494af9af465",
+      "language": "en",
+      "languages": [
+        "en",
+        "ru",
+        "uz"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 41.377491,
+        "longitude": 64.585262
+      },
+      "map": {
+        "bounds": "37.17225699999999,55.9982179,45.590075,73.148946"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Uzbekistan",
+      "type": "country",
+      "uuid": "1d82c335-6c98-461e-9264-a3792f02f82f"
+    },
+    {
+      "children_count": 4,
+      "country_code": "vn",
+      "hash": "8dd5a9ec54eaa1650165bae2f0c37b0b3374bba3",
+      "language": "en",
+      "languages": [
+        "en",
+        "ru",
+        "vi"
+      ],
+      "location": {
+        "altitude": 0.0,
+        "latitude": 14.058324,
+        "longitude": 108.277199
+      },
+      "map": {
+        "bounds": "8.499664619992673,107.494751796875,21.81122958175469,111.13889697499997"
+      },
+      "status": "published",
+      "summary": "",
+      "title": "Vietnam",
+      "type": "country",
+      "uuid": "f6c76ad6-136b-4995-899b-4d7246abae9c"
+    }
+  ]
+}
