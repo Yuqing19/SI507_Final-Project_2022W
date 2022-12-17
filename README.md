@@ -9,7 +9,7 @@
 ## Run the code:
 1. Download the code.
 2. Run 'python3 main.py' and access the link in the terminal (e.g. http://127.0.0.1:5000/)
-3. You should answer four questions and we will provide 5(by default) museums which meet your requirements. If you want to find more museums, you can change the number on the website. You can press 'reroll' to get another branch of museums meeting your requirements and 'Try again' to change your answers. By clicking the name of the museum, you can access the google webpage for the specific museum to find more information.
+3. User should answer four questions and then, there are 5 (by default) museums showing on the webpage which satisfying user’s requirements. If user want to find more or less museums, the user can change the number by clicking button next to the number on the webpage. The user can press “reroll” to get another branch of museums meeting the same requirements and “Try again” to change requirements. By clicking the name of the museum, users can also access the google search webpage for the specific museum to find more information.
 4. Press CTRL+C to quit.
 
 ## Tree structure for data:
