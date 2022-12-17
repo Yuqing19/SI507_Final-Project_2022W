@@ -14,4 +14,4 @@
 
 ## Tree structure for data:
 We presented our data in Tree pattern:
-![Tree structure](./images/Tree.jpg)
+![Tree structure](./1.jpg)
