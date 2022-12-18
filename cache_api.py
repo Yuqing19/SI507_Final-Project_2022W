@@ -2,8 +2,8 @@
 # import urllib.request
 import requests
 import json
+from api_key import API_KEY
 
-API_KEY = "efa45cfa-6ce1-4216-8893-22f8314b11ba"
 GET_DATA = True
 BASE_URL = "https://api.izi.travel/"
 
