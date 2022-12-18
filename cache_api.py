@@ -2,7 +2,11 @@
 # import urllib.request
 import requests
 import json
-from api_key import API_KEY
+try:
+    from api_key import API_KEY
+except:
+    print("You may need to apply for an API_KEY on izi.travel. "
+    "Or you can download my API key through my Canvas submission")
 
 GET_DATA = True
 BASE_URL = "https://api.izi.travel/"
