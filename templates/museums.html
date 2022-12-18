@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- All of the meta data for the page belongs in the header tag -->
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your museums!</title>
+  <style>
+    main {
+      margin: 20px 20%;
+    }
+    .welcome {
+      background-color: dodgerblue;
+      color: khaki;
+      display: block;
+      border-radius: 20px;
+      text-align: center;
+    }
+
+    a {
+      text-decoration: none;
+    }
+    
+    .retry {
+      display: inline-block; 
+      background-color: khaki; 
+      margin: 10px 2px; 
+      padding: 10px 20px; 
+      border-radius: 10px;
+      text-align: center;
+      vertical-align: middle;
+    }
+
+    a:hover {
+      color: red;
+    }
+
+    button:hover {
+      color: red;
+    }
+
+    button {
+      font-size: 16px; 
+      margin: 5px 2px; 
+      padding: 2px 10px; 
+      height: 42px; 
+      width: 80px; 
+      background-color: khaki; 
+      border: none;
+      border-radius: 10px;
+    }
+
+    .grid {
+      grid-template-columns: 1fr 1fr;
+      width: 100%;
+    }
+
+    .box_a {
+      columns: 1 / 2;
+      position: absolute;
+      left: 25%;
+    }
+
+    .box_b {
+      columns: 2 / 3;
+      position: absolute;
+      right: 25%;
+    }
+
+  </style>
+</head>
+
+<body>
+  <main id="content">
+    <h1 class="welcome">Here are some museums for you!</h1>
+    <p>According to the questionnaire, here are some museums for you! Enjoy your trip!</p>
+    <p>You can find more details by clicking the item :)</p>
+    <ol>
+      {% for museum in museums %}
+      <li><a href="https://www.google.com/search?q={{museum.name.replace(' ', '+')}}&oq={{museum.name.replace(' ', '+')}}">
+        {{ museum.name }}</a>, rating: {{museum.rating_average}} / 10.0
+      </li>
+      {% endfor %}
+    </ol>
+    <br>
+
+    <div class="grid">
+      <button onClick=" window.location.reload();" class="box_a">Reroll!</button>
+      <a href="{{ url_for('index') }}" class="retry box_b">Try again!</a>
+    </div>
+
+
+  </main>
+</body>
+
+</html>

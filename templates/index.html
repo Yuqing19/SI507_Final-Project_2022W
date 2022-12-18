@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- All of the meta data for the page belongs in the header tag -->
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Find some museums</title>
+  <style>
+    .welcome {
+      background-color: dodgerblue;
+      color: khaki;
+      display: block;
+      border-radius: 20px;
+      text-align: center;
+    }
+    .button {
+      border-radius: 10px;
+      font-size: 18px; 
+      margin: 20px 2px; 
+      padding: 15px 20px; 
+      background-color: khaki; 
+      border: none;
+    }
+    .button:hover {
+      color: red;
+    }
+  </style>
+</head>
+
+<body>
+  <main id="content" style="margin: 20px 20%;">
+    <h1 class="welcome">Welcome to the Museum APP</h1>
+    <p> By answering the following questions, you can find some museums you may want to visit!</p>
+
+    <form action="{{ url_for('index') }}" method="post">
+      <p class="questions">Do you want to vist a museum in eastern hemispheres?</p>
+      <input type="radio" id="yes_e_hemi" name="e_hemi" value="Yes" required>
+      <label for="yes_e_hemi">Yes</label><br>
+      <input type="radio" id="no_e_hemi" name="e_hemi" value="No">
+      <label for="no_e_hemi">No</label><br><br>
+
+      <p class="questions">Do you want to visit a large museum?</p>
+      <input type="radio" id="yes_large" name="large" value="Yes" required>
+      <label for="yes_large">Yes</label><br>
+      <input type="radio" id="no_large" name="large" value="No">
+      <label for="no_large">No</label><br><br>
+
+      <p class="questions">Do you want to visit a museum with rating average greater than 8.0?</p>
+      <input type="radio" id="yes_high_rating" name="high_rating" value="Yes" required>
+      <label for="yes_high_rating">Yes</label><br>
+      <input type="radio" id="no_high_rating" name="high_rating" value="No">
+      <label for="no_high_rating">No</label><br><br>
+
+      <p class="questions">Do you want to visit a museum supports multi-language?</p>
+      <input type="radio" id="yes_multi_lang" name="multi_lang" value="Yes" required>
+      <label for="yes_multi_lang">Yes</label><br>
+      <input type="radio" id="no_multi_lang" name="multi_lang" value="No">
+      <label for="no_multi_lang">No</label><br><br>
+
+      <p class="questions">How many museums do you want to see in the resulting page? (Give an upper limit!)</p>
+      <input type="number" id="number" name="number_of_museums" min="1" max="10" value="5">
+
+      <br>
+      <input class="button" type="submit" value="Submit">
+    </form>
+
+  </main>
+
+</body>
+
+</html>

@@ -11347,51 +11347,6 @@
       "uuid": "a8299215-15fe-4998-af00-26ce873b5a1e"
     },
     {
-      "children_count": 8,
-      "content_provider": {
-        "copyright": "",
-        "name": "Elizabeth Graham",
-        "uuid": "00de572f-3b57-462d-a25b-6408d64ddb30"
-      },
-      "hash": "4ff02ea89cbebbec5aef088692ba5767a5f0dc90",
-      "language": "en",
-      "languages": [
-        "en"
-      ],
-      "location": {
-        "city_uuid": "61150bf6-9d13-4daf-b0b0-3ed3a903a98b",
-        "country_code": "dk",
-        "country_uuid": "1887c4fa-10b3-4125-b316-5e1936a52ec4"
-      },
-      "publisher": {
-        "content_provider": {
-          "copyright": "",
-          "name": "Elizabeth Graham",
-          "uuid": "00de572f-3b57-462d-a25b-6408d64ddb30"
-        },
-        "hash": "09479635b37cffe94067b51b8605ac2e9141ea83",
-        "language": "en",
-        "languages": [
-          "en"
-        ],
-        "status": "published",
-        "summary": "",
-        "title": "Elizabeth Graham",
-        "type": "publisher",
-        "uuid": "b1886bad-5fca-421c-83df-b84c9219f5f8"
-      },
-      "reviews": {
-        "rating_average": 8,
-        "ratings_count": 2,
-        "reviews_count": 1
-      },
-      "status": "published",
-      "summary": "",
-      "title": "Interpreting the Medieval Image",
-      "type": "museum",
-      "uuid": "17465156-2546-44a3-a295-ab0d02efcaca"
-    },
-    {
       "children_count": 16,
       "content_provider": {
         "copyright": "Museo de la Altagracia",
